@@ -1,0 +1,23 @@
+1. What is the difference between `<head>` and `<header>`?
+
+The `<head>` is where I put information about the webpage, like its title and other settings. The `<header>` is part of the page people can see. It can contain the main heading or an introduction.
+
+2. Why does `<title>` matter to users and search engines?
+
+The title is what I see on the browser tab when I open a page. It also helps people know what a page is about when they find it through a search engine. That is why I should choose a title that describes the page properly.
+
+3. What does UTF-8 mean in practical terms?
+
+UTF-8 helps the browser display letters, numbers, symbols and characters from different languages correctly. Without the right character encoding, some characters might show up as strange symbols instead of what I intended.
+
+4. Why is the document `lang` important?
+
+The `lang` attribute tells the browser which language the page is written in. It also helps screen readers pronounce the content correctly. Since my page is written in English, I used `lang="en"`.
+
+5. What problem does the viewport meta tag help prevent?
+
+It helps the webpage fit different screen sizes, especially phones and tablets. Without it, a page might look zoomed out or too small on a phone, making it difficult to read.
+
+6. What makes a useful meta description?
+
+A good meta description briefly explains what the page is about. It should be clear and related to the actual content so that someone can decide whether the page is useful to them.
